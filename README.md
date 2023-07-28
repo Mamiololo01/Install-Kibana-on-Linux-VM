@@ -79,6 +79,12 @@ Log in to Kibana as the elastic user with the password that was generated when y
 
 Generate passwords and enrollment tokensedit
 
+
+<img width="1271" alt="Screenshot 2023-07-26 at 23 13 45" src="https://github.com/Mamiololo01/Install-Kibana-on-Linux-VM/assets/67044030/b43a85db-65cf-4d2f-bce3-03381f794b10">
+
+
+<img width="1011" alt="Screenshot 2023-07-27 at 00 21 24" src="https://github.com/Mamiololo01/Install-Kibana-on-Linux-VM/assets/67044030/4d35cbf9-8595-4344-a3f4-220554bdc79e">
+
 If you need to reset the password for the elastic user or other built-in users, run the elasticsearch-reset-password tool. This tool is available in the Elasticsearch bin directory of the Docker container.
 
 For example, to reset the password for the elastic user:
